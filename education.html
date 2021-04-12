@@ -2,36 +2,71 @@
   "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-<link rel="stylesheet" href="jemdoc.css" type="text/css" />
-<title>Education</title>
+<link rel="icon" href="./images/icon.png">
+<link rel="stylesheet" href="main.css" type="text/css" />
+<link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
+<!--- <title>Education</title> --->
+<title>Amir Hossein Kargaran</title>
+<!-- MathJax -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML' async>
+</script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+	  TeX: { equationNumbers: { autoNumber: "AMS" } }
+});
+</script>
+<!-- End MathJax -->
 </head>
 <body>
-<table summary="Table for page layout." id="tlayout">
-<tr valign="top">
-<td id="layout-menu">
+<div id="main-container">
+<div id="header-container">
+<div id="header">
+<div id="header-icon-text-container">
+<div id="header-icon-container" >
+<a href="index.html"><img src="./images/profile2.png" alt="" style="width: 100%; height: 100%; position: center; padding:0px; margin: 0px;"></a>
+</div>
+<div id="header-text-container">
+<a href="index.html">Amir Hossein Kargaran</a>
+</div>
+</div>
+<div id="main">
+<button class="openbtn" onclick="openNav()">☰</button>
+</div>
+</div>
+</div>
+<div id="layout">
+<div id="layout-menu-container">
+<div id="layout-menu">
+<div class="menu-item"><a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a></div>
+<div class="menu-item"><a href="index.html">About</a></div>
 <div class="menu-category">Menu</div>
-<div class="menu-item"><a href="index.html">Home</a></div>
 <div class="menu-item"><a href="education.html" class="current">Education</a></div>
 <div class="menu-item"><a href="publications.html">Publications</a></div>
+<div class="menu-item"><a href="projects.html">Projects</a></div>
 <div class="menu-item"><a href="teaching.html">Teaching</a></div>
-<div class="menu-item"><a href="courses.html">Courses</a></div>
 <div class="menu-item"><a href="activities.html">Activities</a></div>
+<div class="menu-item"><a href="courses.html">Courses</a></div>
 <div class="menu-item"><a href="honors.html">Honors&nbsp;and&nbsp;Awards</a></div>
 <div class="menu-item"><a href="contact.html">Contact</a></div>
-<div class="menu-category">Usefull links</div>
+<div class="menu-item"><a href="blog.html">Blog</a></div>
+<div class="menu-item"><a href="memories.html">Memories</a></div>
+<div class="menu-category">Goodies</div>
 <div class="menu-item"><a href="http://www-net.cs.umass.edu/kurose/writing/">Writing&nbsp;Tips&nbsp;by&nbsp;J.&nbsp;Kurose</a></div>
 <div class="menu-item"><a href="https://people.eecs.berkeley.edu/~pattrsn/talks/nontech.html">Talks&nbsp;by&nbsp;D.&nbsp;Patterson</a></div>
-</td>
-<td id="layout-content">
+</div> <!-- <div id="layout-menu"> -->
+</div> <!-- <div id="layout-menu-container"> -->
+<div id="layout-content-container">
+<div id="layout-content">
 <div id="toptitle">
 <h1>Education</h1>
 </div>
 <h2>Master Degree</h2>
-<table class="imgtable"><tr><td>
-<img src="photos/sut.jpg" alt="alt text" width="100px" height="100px" />&nbsp;</td>
-<td align="left"><p><b>Sharif University of Technology, Iran, </b> (Oct&rsquo;2020 &ndash; Sep&rsquo;2022) <br />
+<div id="text-img-container"><div id="img-container">
+<img src="photos/sut.jpg" alt="alt text" width="100px" height="100px" /></div>
+<div id="text-container"><p><b>Sharif University of Technology, Iran, </b> (Oct&rsquo;2020 &ndash; Sep&rsquo;2022) <br />
 M.Sc., Computer Engineering Department</p>
 <ul>
 <li><p><b> Computer Engineering (software) </b></p>
@@ -42,11 +77,11 @@ M.Sc., Computer Engineering Department</p>
 
 </li>
 </ul>
-</td></tr></table>
+</div></div>
 <h2>Undergraduate Degree II</h2>
-<table class="imgtable"><tr><td>
-<img src="photos/iut.png" alt="alt text" width="100px" height="100px" />&nbsp;</td>
-<td align="left"><p><b>Isfahan University of Technology, Iran, </b> (Feb&rsquo;2016 &ndash; Sep&rsquo;2020) <br />
+<div id="text-img-container"><div id="img-container">
+<img src="photos/iut.png" alt="alt text" width="100px" height="100px" /></div>
+<div id="text-container"><p><b>Isfahan University of Technology, Iran, </b> (Feb&rsquo;2016 &ndash; Sep&rsquo;2020) <br />
 B.Sc., Electrical and Computer Engineering (ECE) Department</p>
 <ul>
 <li><p><b> Computer Engineering (software) </b></p>
@@ -59,15 +94,15 @@ B.Sc., Electrical and Computer Engineering (ECE) Department</p>
 
 </li>
 </ul>
-</td></tr></table>
+</div></div>
 <ul>
 <li><p>Bachelor Thesis: Tracking Third-Party Trackers on web pages</p>
 <ul>
-<li><p>Advisors: <a href="http://www.manshaei.org/">Prof. Mohammad Hossein Manshaei</a>: <a href="https://scholar.google.com/citations?user=33d716cAAAAJ&amp;hl=en">(scholar)</a>, <a href="https://mrheidar.iut.ac.ir/">Prof. Mohammad Reza Heidarpour</a>: <a href="https://dblp.uni-trier.de/pers/hd/h/Heidarpour:Mohammad_Reza">(dblp)</a></p>
+<li><p>Advisors: <a href="http://www.manshaei.org/" target=&ldquo;blank&rdquo;>Prof. Mohammad Hossein Manshaei</a>: <a href="https://scholar.google.com/citations?user=33d716cAAAAJ&amp;hl=en" target=&ldquo;blank&rdquo;>(scholar)</a>, <a href="https://mrheidar.iut.ac.ir/" target=&ldquo;blank&rdquo;>Prof. Mohammad Reza Heidarpour</a>: <a href="https://dblp.uni-trier.de/pers/hd/h/Heidarpour:Mohammad_Reza" target=&ldquo;blank&rdquo;>(dblp)</a></p>
 <ul>
 <li><p>We worked on enhancing detecting and blocking methods for ads and web trackers. Primarily, we reviewed tracking methods in webpages, from past to now. Finally, 
 we worked on graph-based approaches to find new third party ads and tracker services.
-(resulted in this <b><a href="https://arxiv.org/abs/2004.14826">paper</a></b>)</p>
+(resulted in this <b><a href="https://arxiv.org/abs/2004.14826" target=&ldquo;blank&rdquo;>paper</a></b>)</p>
 </li>
 </ul>
 
@@ -77,9 +112,9 @@ we worked on graph-based approaches to find new third party ads and tracker serv
 </li>
 </ul>
 <h2>Undergraduate Degree I</h2>
-<table class="imgtable"><tr><td>
-<img src="photos/iut.png" alt="alt text" width="100px" height="100px" />&nbsp;</td>
-<td align="left"><p><b>Isfahan University of Technology, Iran, </b> (Sep&rsquo;2015 &ndash; Sep&rsquo;2020) <br />
+<div id="text-img-container"><div id="img-container">
+<img src="photos/iut.png" alt="alt text" width="100px" height="100px" /></div>
+<div id="text-container"><p><b>Isfahan University of Technology, Iran, </b> (Sep&rsquo;2015 &ndash; Sep&rsquo;2020) <br />
 B.Sc., Electrical and Computer Engineering (ECE) Department</p>
 <ul>
 <li><p><b> Electrical Engineering (control) </b></p>
@@ -92,13 +127,13 @@ B.Sc., Electrical and Computer Engineering (ECE) Department</p>
 
 </li>
 </ul>
-</td></tr></table>
+</div></div>
 <ul>
 <li><p>Bachelor Thesis: Analysis of Alarm Similarity in Industrial Processes</p>
 <ul>
-<li><p>Advisor: <a href="https://izadi.iut.ac.ir/">Prof. Iman Izadi</a>: <a href="https://scholar.google.com/citations?user=kc8zE6gAAAAJ&amp;hl=en">(scholar)</a></p>
+<li><p>Advisor: <a href="https://izadi.iut.ac.ir/" target=&ldquo;blank&rdquo;>Prof. Iman Izadi</a>: <a href="https://scholar.google.com/citations?user=kc8zE6gAAAAJ&amp;hl=en" target=&ldquo;blank&rdquo;>(scholar)</a></p>
 <ul>
-<li><p>The project that i worked on was related to alarm studies. Primarily, we studied and reviewed on alarm similarity analysis methods. Finally, we proposed some analytic functions to compute similarity and correlation of different type of alarms based on the distribution of corresponding process variables.&nbsp;(resulted in this <b><a href="https://arxiv.org/abs/2003.10600">paper</a></b>)</p>
+<li><p>The project that i worked on was related to alarm studies. Primarily, we studied and reviewed on alarm similarity analysis methods. Finally, we proposed some analytic functions to compute similarity and correlation of different type of alarms based on the distribution of corresponding process variables.&nbsp;(resulted in this <b><a href="https://arxiv.org/abs/2003.10600" target=&ldquo;blank&rdquo;>paper</a></b>)</p>
 </li>
 </ul>
 
@@ -107,13 +142,37 @@ B.Sc., Electrical and Computer Engineering (ECE) Department</p>
 
 </li>
 </ul>
+</div> <!-- <div id="layout-content"> -->
+<div id="footer-container">
 <div id="footer">
 <div id="footer-text">
-Page generated 2021-03-12 02:06:29 IRST, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
-</div>
-</div>
-</td>
-</tr>
-</table>
+Last edited  on April 12<sup>th</sup> 2021  02:54PM (Time Zone: IRDT). </br>
+Powered by <a href="https://github.com/szl2/jemdoc-new-design" target="blank">jemdoc + new design</a>.
+</div> <!-- <div id="footer-text"> -->
+</div> <!-- <div id="footer"> -->
+</div> <!-- <div id="footer-container"> -->
+</div> <!-- <div id="layout-content-container"> -->
+</div> <!--- <div id="layout"> --->
+</div> <!--- <div id="main-container"> --->
+<script>
+function openNav() {
+    if (window.innerWidth <= 1200) {
+        document.getElementById("layout-menu").style.width = "280px";
+        document.getElementById("layout-content-container").style.marginLeft = "280.8px";
+        document.getElementById("layout-content-container").style.position = "fixed";
+    }
+}
+function closeNav() {
+    if (window.innerWidth <= 1200) {
+        document.getElementById("layout-menu").style.width = "0";
+        document.getElementById("layout-content-container").style.position = "static";
+        document.getElementById("layout-content-container").style.marginLeft = "0px";
+        setInterval(
+            function(){ location.reload() },
+            500
+        );
+    }
+}
+</script>
 </body>
 </html>
