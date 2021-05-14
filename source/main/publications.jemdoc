@@ -1,0 +1,19 @@
+# jemdoc: menu{MENU}{publications.html}
+= Publications
+
+== You can see my publications at
+- [https://scholar.google.com/citations?hl=en&user=2idwpjcAAAAJ Google Scholar]
+- [https://dblp.uni-trier.de/pers/hd/k/Kargaran:Amir_Hossein DBLP]
+- [https://www.researchgate.net/profile/Amir_Hossein_Kargaran Researchgate]
+
+== List
+
+*2021*
+
+~~~
+{}{table}{}
+WEBSCI (ACM Web Science) | Wide-AdGraph: Detecting Ad Trackers with a Wide Dependency Chain Graph | [PDF] [VIDEO] ||
+ADCHEM (IFAC Symposium) | Analytical Derivation and Comparison of Alarm Similarity Measures  | [PDF] [VIDEO]
+~~~
+
+

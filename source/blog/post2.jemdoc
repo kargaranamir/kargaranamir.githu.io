@@ -1,0 +1,16 @@
+# jemdoc: menu{MENU}{post2.html}
+
+== Selenium
+
+[../resources/software_testing/Selenium.pdf Slides], [https://github.com/kargaranamir/selenium-walkthrough Examples].
+
+{{
+<script src="https://utteranc.es/client.js"
+        repo="kargaranamir/kargaranamir.github.io"
+        issue-term="pathname"
+        label="Blog-Comment"
+        theme="boxy-light"
+        crossorigin="anonymous"
+        async>
+</script>
+}}

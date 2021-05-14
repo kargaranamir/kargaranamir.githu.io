@@ -1,0 +1,17 @@
+# jemdoc: menu{MENU}{post1.html}
+
+== Hello World 
+
+
+First Post!
+
+{{
+<script src="https://utteranc.es/client.js"
+        repo="kargaranamir/kargaranamir.github.io"
+        issue-term="pathname"
+        label="Blog-Comment"
+        theme="boxy-light"
+        crossorigin="anonymous"
+        async>
+</script>
+}}

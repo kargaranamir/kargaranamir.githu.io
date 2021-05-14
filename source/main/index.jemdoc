@@ -1,0 +1,25 @@
+# jemdoc: menu{MENU}{profile.html}
+
+~~~
+{}{img_left}{./images/bio.jpg}{profile pic}{200px}{200px}{}
+== Amir Hossein Kargaran \n
+Master's of [http://ce.sharif.edu/ Computer Engineering], [http://www.en.sharif.edu/ Sharif University of Technology (SUT)] \n
+Tehran, Iran \n 
+Phone: \+98 913 404 4918 \n
+Email: \kargaran (at) ce (dot) sharif (dot) edu 
+~~~
+
+== About Me
+My name is Amirhossein Kargaran Khouzani (In Persian: امیرحسین کارگران خوزانی). I am a M.Sc. student at [http://ce.sharif.edu/ Department of Computer Engineering], [http://www.en.sharif.edu/ Sharif University of Technology (SUT)].
+Currently, I am a member of the [http://ase.ce.sharif.ir/ Automated Software Engineering (ASE)] research laboratory under the supervision of [http://sharif.edu/~heydarnoori/ Prof. Abbas Heydarnoori].
+
+Previosly, in reverse chronological order, I was a member of [https://www.researchgate.net/lab/Iman-Izadi-Lab Izadi's research group]
+led by [https://izadi.iut.ac.ir/ Prof. Iman Izadi], and a member of the [http://gtmd.iut.ac.ir/en Game Theory and Mechanism Design (GTMD)] research laboratory and [https://iai.iut.ac.ir/en Institute for Artificial Intelligence (IAI)]
+led by [http://www.manshaei.org/ Prof. Mohammad Hossein Manshaei] at the [https://iut.ac.ir/en Isfahan University of Technology (IUT)], Iran,
+where I graduated with two B.Sc. degree in Electrical Engineering and Computer Engineering. 
+
+== News
+- 2021\/04\/13, [https://arxiv.org/abs/2004.14826 1 paper] is accepted at 13th ACM Web Science Conference (WEBSCI'21)
+- 2021\/02\/12, [https://arxiv.org/abs/2003.10600 1 paper] is accepted at 11th Ifac Symposium on Advanced Control of Chemical Processes (ADCHEM'21)
+
+- [/news.html More News]

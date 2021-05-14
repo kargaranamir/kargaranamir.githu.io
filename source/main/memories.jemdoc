@@ -1,0 +1,38 @@
+# jemdoc: menu{MENU}{memories.html}
+= Photos
+This page contains some memories.
+
+
+== Photos
+{{
+<div class="row">
+  <div class="column">
+    <img src="images/outing/darake-teh1.jpg" style="width:100%">
+    <img src="images/outing/darake-teh2.jpg" style="width:100%">
+    <img src="images/outing/darake-teh3.jpg" style="width:100%">
+	<img src="images/outing/darake-teh4.jpg" style="width:100%">
+	<img src="images/outing/bagh-bahadoran.jpg" style="width:100%">
+	<img src="images/outing/shahan-kooh-mountain1.jpg" style="width:100%">
+    <img src="images/outing/shahan-kooh-mountain2.jpg" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="images/outing/graduation-bsc1.jpg" style="width:100%">
+    <img src="images/outing/graduation-bsc2.jpg" style="width:100%">
+    <img src="images/outing/graduation-bsc3.jpg" style="width:100%">
+    <img src="images/outing/graduation-bsc4.jpg" style="width:100%">
+	<img src="images/outing/graduation-bsc5.jpg" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="images/outing/bibi-seidan1.jpg" style="width:100%">
+    <img src="images/outing/bibi-seidan2.jpg" style="width:100%">
+    <img src="images/outing/bibi-seidan3.jpg" style="width:100%">
+    <img src="images/outing/bibi-seidan4.jpg" style="width:100%">
+	<img src="images/outing/bibi-seidan5.jpg" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="images/outing/thesis-bsc2.jpg" style="width:100%">
+    <img src="images/outing/thesis-bsc1.jpg" style="width:100%">
+	<img src="images/outing/iut1.jpg" style="width:100%">
+  </div>
+</div>
+}}
