@@ -1,21 +1,4 @@
-    About               [index.html]
-
-Menu
-
-	Education           [education.html]
-	Publications        [publications.html]
-	Teaching			[teaching.html]
-	Activities			[activities.html]
-	Courses				[courses.html]
-	Honors and Awards	[honors.html]
-	Contact         	[contact.html]	
-
-
-    Blog                [blog.html]
-    Memories            [memories.html]
-
-	
-	
-Goodies
-	Writing Tips by J. Kurose     [http://www-net.cs.umass.edu/kurose/writing/]
-	Talks by D. Patterson [https://people.eecs.berkeley.edu/~pattrsn/talks/nontech.html]				 
+    Home               [./index.html]
+    Blog                [./blog.html]
+    Experiences	[./experiences.html]	
+    Personal		[./personal.html]			 

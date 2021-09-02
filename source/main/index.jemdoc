@@ -1,15 +1,28 @@
-# jemdoc: menu{MENU}{profile.html}
+# jemdoc: menu{MENU}{index.html}
 
 ~~~
 {}{img_left}{./images/bio.jpg}{profile pic}{200px}{200px}{}
 == Amir Hossein Kargaran \n
 Research Assistant, [https://www.aalto.fi/en/department-of-communications-and-networking Department of Communications and Networking], [https://www.aalto.fi/en Aalto University] \n
 Master Student, [http://ce.sharif.edu/ Department of Computer Engineering], [http://www.en.sharif.edu/ Sharif University of Technology (SUT)] \n
-Email: \kargaranamir (at) gmail (dot) com 
+Email: \kargaranamir (at) gmail (dot) com \n
+
+[https://scholar.google.com/citations?hl=en&user=2idwpjcAAAAJ Google Scholar] | [https://dblp.uni-trier.de/pers/hd/k/Kargaran:Amir_Hossein DBLP] | [https://www.researchgate.net/profile/Amir_Hossein_Kargaran Researchgate] | [https://github.com/kargaranamir GitHub] | [https://gitlab.com/kargaranamir Gitlab] | [https://www.kaggle.com/kargaranamir Kaggle] \n
+[https://www.last.fm/user/kargaranamir Last.fm] | [https://open.spotify.com/user/21wduv4jr5477ajojgxej4cha?si=L3iavpzJQleF_ih-tnIxmA Spotify] | | [https://letterboxd.com/kargaranamir/ Letterboxd] | [https://www.pinterest.com/Kargaranamir Pinterest] \n
+[https://twitter.com/amircra Twitter] | [https://www.linkedin.com/in/amirkargaran/ Linkedin] | [https://www.instagram.com/kargaranamir/ Instagram] | [https://www.facebook.com/Kargaranamir Facebook]
 ~~~
 
-== Biography
-Amir Hossein Kargaran is a research assistant in the [https://www.aalto.fi/en/department-of-communications-and-networking Department of Communications and Networking] at [https://www.aalto.fi/en Aalto University]. 
+== News
+- July 2021: I joined as a research assistant in the Department of Communications and Networking at Aalto University. 
+- June 2021:  [https://dl.acm.org/doi/10.1145/3447535.3462549 1 paper] won the [https://websci21.webscience.org/best-paper-awards/ Top Student Paper Award - Honourable Mention] at 13th ACM Web Science Conference (WEBSCI'21).
+- April 2021:, [https://arxiv.org/abs/2004.14826 1 paper] is accepted at 13th ACM Web Science Conference (WEBSCI'21).
+- February 2021:, [https://arxiv.org/abs/2003.10600 1 paper] is accepted at 11th IFAC Symposium on Advanced Control of Chemical Processes (ADCHEM'21).
+- October 2020:, I started my master's degree in Computer Engineering at Sharif University of Technology.
+- [/news.html More News]
+
+
+== About {{<a name="about"></a>}}
+Amir Hossein Kargaran is a research assistant in the [https://www.aalto.fi/en/department-of-communications-and-networking Department of Communications and Networking] at [https://www.aalto.fi/en Aalto University]. Amir Hossein Kargaran is a research assistant in the [https://www.aalto.fi/en/department-of-communications-and-networking Department of Communications and Networking] at [https://www.aalto.fi/en Aalto University]. 
 He works at User Interfaces Research Group led by [http://users.comnet.aalto.fi/oulasvir/ Antti Oulasvirta].
 He is also a M.Sc. student in the [http://ce.sharif.edu/ Department of Computer Engineering] at [http://www.en.sharif.edu/ Sharif University of Technology (SUT)] and a member of the [http://ase.ce.sharif.ir/ Automated Software Engineering (ASE)] research laboratory led by [http://sharif.edu/~heydarnoori/ Prof. Abbas Heydarnoori].
 
@@ -19,11 +32,39 @@ led by [http://www.manshaei.org/ Prof. Mohammad Hossein Manshaei] at the [https:
 
 He obtained two B.Sc. degree in Electrical Engineering and Computer Engineering from the [https://iut.ac.ir/en Isfahan University of Technology (IUT)], Iran in 2020. 
 
-== News
-- 2021\/07\/01 I joined as a research assistant in the Department of Communications and Networking at Aalto University.
-- 2021\/06\/24  [https://dl.acm.org/doi/10.1145/3447535.3462549 1 paper] won the [https://websci21.webscience.org/best-paper-awards/ Top Student Paper Award - Honourable Mention] at 13th ACM Web Science Conference (WEBSCI'21).
-- 2021\/04\/13, [https://arxiv.org/abs/2004.14826 1 paper] is accepted at 13th ACM Web Science Conference (WEBSCI'21).
-- 2021\/02\/12, [https://arxiv.org/abs/2003.10600 1 paper] is accepted at 11th IFAC Symposium on Advanced Control of Chemical Processes (ADCHEM'21).
 
-- [/news.html More News]
+== Education {{<a name="Education"></a>}}
+[http://www.en.sharif.edu/ Sharif University of Technology (SUT)] | Sep'2020 - Sep'2022 
+- MSc, [http://ce.sharif.edu/ Computer Engineering]
+
+[https://iut.ac.ir/en Isfahan University of Technology] | Sep 2015 - Sep 2020 
+- BSc, [https://ece.iut.ac.ir/en Electrical Engineering], [https://arxiv.org/abs/2004.14826 \[Thesis\]]
+- BSc, [https://ece.iut.ac.ir/en Computer Engineering], [https://arxiv.org/abs/2003.10600 \[Thesis\]]
+
+
+== Honors and Awards
+
+- 2021: *Best Student Paper Honourable Mention Award* at 13th ACM Web Science Conference (WEBSCI’21), England
+- 2021: *Admission* to [https://www.aalto.fi/en/aalto-science-institute/aalto-science-institute-asci-internship-programme AScI] summer internship, among 1095 applications for 47 positions, Aalto University, Finland
+- 2020: *Ranked 80th* in Iranian nationwide university entrance exam for graduate studies, field of Pure Mathematics, among more than 4,000 students
+- 2020: *M.Sc admission* as an [http://htso.sharif.ir/home exceptional talent] from Sharif University of Technology and Isfahan University of Technology
+- 2020: *Ranked 2nd* in cumulative GPA among B.Sc. Computer Engineering students, 2015 beginners, Isfahan University of Technology
+- 2020 * Ranked top 10% * in cumulative GPA among B.Sc. Electrical Engineering students, 2015 beginners, Isfahan University of Technology
+- 2018-2021: *Award* for outstanding academic success from the Iranian National Elites Foundation
+- 2019: *Full Scholarship*, [https://teias.institute/data-science-and-machine-learning/ Data Science Summer School, Tehran Institute for Advanced Studies]
+- 2018: *Ranked 2nd* (500 \$ award) in new ideas section at [http://festival.nsec.ir/fa/post/15 national information security competition], Iran
+- 2015: *Ranked [http://www.kanoon.ir/Public/StudentProfile/933910061 318th]* (top 0.2 \%)  in Iranian nationwide university entrance exam  for undergraduate studies, field of Mathematics-Physics, among more than 180,000 students
+
+== Publications  {{<a name="publications"></a>}}
+
+- Wide-AdGraph: Detecting Ad Trackers with a Wide Dependency Chain Graph {{<font color=red size=+0.5><b>}} [https://websci21.webscience.org/paper-sessions \[Best Student Paper Honourable Mention award at WEBSCI'21\]] {{</b></font>}}\n
+*Amir Hossein Kargaran*, Mohammad Sadegh Akhondzadeh, Mohammad Reza Heidarpour, Mohammad Hossein Manshaei, Kave Salamatian, Masoud Nejad Sattary \n
+WebSci '21: 13th ACM Web Science Conference 2021 \n
+ [https://doi.org/10.1145/3447535.3462549 \[paper\]] [papers/kargaran2021wide.bib \[bib\]] [https://www.youtube.com/watch?v=PpFpfEMVze0 \[video\]] [https://github.com/Institute-for-Artificial-Intelligence/Wide-AdGraph \[code\]]
+
+- Analytical Derivation and Comparison of Alarm Similarity Measures \n
+*Amir Hossein Kargaran*, Amir Neshastegaran, Iman Izadi, Ehsan Yazdian \n
+1th IFAC SYMPOSIUM on Advanced Control of Chemical Processes 2021 \n
+ [https://arxiv.org/pdf/2003.10600.pdf \[paper\]] [papers/kargaran2021analytical.bib \[bib\]] [https://www.youtube.com/ \[video\]] [https://github.com/kargaranamir/Alarm-Similarity \[code\]]
+
 

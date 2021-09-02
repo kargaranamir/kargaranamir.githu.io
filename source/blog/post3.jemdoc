@@ -1,9 +1,9 @@
-# jemdoc: menu{MENU}{post2.html}
+# jemdoc: menu{MENU}{post3.html}
 
-== Hello World 
+== Useful Links for Research
 
-
-First Post!
+- [http://www-net.cs.umass.edu/kurose/writing/ Writing Tips by J. Kurose]
+- [https://people.eecs.berkeley.edu/~pattrsn/talks/nontech.html Talks by D. Patterson]
 
 {{
 <script src="https://utteranc.es/client.js"
